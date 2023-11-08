@@ -1,0 +1,1 @@
+Welcome to my SQL Portfolio! This code repository contains a few of SQL projects that I've worked on. I'm always open to learning new things as well. Feel free to take a look and reach out if you have any questions at benjimana@gmail.com
